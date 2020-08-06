@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596699970712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E1FAD9A2",
+    "lastKnownWriteTime" : 1596700031,
+    "last_content_update" : 1596700031199,
+    "path" : "~/Tengku/Complete Journey/completejourney/completejourney.R",
+    "project_path" : "completejourney.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
